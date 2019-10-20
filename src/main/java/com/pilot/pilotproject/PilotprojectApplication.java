@@ -8,6 +8,7 @@ public class PilotprojectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PilotprojectApplication.class, args);
+        System.out.println("Hellllllloooooo");
     }
 
 }
